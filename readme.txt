@@ -22,6 +22,48 @@ III. TERNARY SEARCH (ITERATIVE)
 Time complexity: O(log₃n)
 Space complexity : O(1)
 
+
+IV.  BUBBLE SORT
+
+Time Complexity: 
+    BEST:O(N)
+    AVERAGE:O(N^2)
+    WORST:O(N^2)
+
+Space complexity:O(1)
+
+Stable : YES
+
+V.  SELECTION SORT
+
+Time Complexity: 
+    BEST:O(N^2)
+    AVERAGE:O(N^2)
+    WORST:O(N^2)
+
+Space complexity:O(1)
+
+Stable: NO
+
+VI. INSERTION SORT
+
+Time Complexity: 
+    BEST:O(N)
+    AVERAGE:O(N^2)
+    WORST:O(N^2)
+
+Space complexity:O(1)
+
+Stable: YES
+
+
+** NB: A Stable Sort is one which preserves the original order of 
+input set, where the comparison algorithm 
+does not distinguish between two or more items. 
+A Stable Sort will guarantee that the original order of data 
+having the same rank is preserved in the output.  **
+
+
 ADDITIONAL (STL BINARY_SEARCH):
     1) binary_search(start_ptr, end_ptr, num) : 
        This function returns boolean true if the element is present 
