@@ -17,6 +17,11 @@ Time Complexity:
 
 Space Complexity: O(1)
 
+III. TERNARY SEARCH (ITERATIVE)
+
+Time complexity: O(log₃n)
+Space complexity : O(1)
+
 ADDITIONAL (STL BINARY_SEARCH):
     1) binary_search(start_ptr, end_ptr, num) : 
        This function returns boolean true if the element is present 
