@@ -68,6 +68,26 @@ Space complexity :
 
 Stable : NO
 
+VIII.   MERGE SORT
+
+Time Complexity:
+    O(NLOGN)        in all cases
+
+Space complexity:O(n)
+
+Stable :YES
+
+IX. BUCKET SORT
+
+Time Complexity: 
+        Average: O(N)
+        Worst:   O(N^2)
+    
+Space Complexity: O(N)
+
+
+
+
 ** NB: A Stable Sort is one which preserves the original order of 
 input set, where the comparison algorithm 
 does not distinguish between two or more items. 
