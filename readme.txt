@@ -56,6 +56,17 @@ Space complexity:O(1)
 
 Stable: YES
 
+VII. QUICK SORT
+
+Time Complexity:
+    BEST:O(NLOGN)           MIDDLE ELEMENT IS PIVOT
+    AVERAGE:O(NLOGN)        ANY ELEMENT CAN BE PIVOT
+    WORST:O(N^2)            PICKS GREATEST OR SMALLEST ELEMENT AS PIVOT
+
+Space complexity :
+    Recursive : O(N)
+
+Stable : NO
 
 ** NB: A Stable Sort is one which preserves the original order of 
 input set, where the comparison algorithm 
